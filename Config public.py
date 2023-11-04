@@ -1,11 +1,11 @@
-BOT_TOKEN = "6548068133:AAHesNwY3enuh_4XPI7K0NeEP1U6d7Jn9P0"                              # Require restart after changing it while bot running
+BOT_TOKEN = "6548068133:AAHhGZvP2Xr_dq9dP5Tc_Zedb0cbk_vQBf8"                              # Require restart after changing it while bot running
 OWNER_ID = "6258381233"                               # Require restart after changing it while bot running
 TELEGRAM_API = "21310924"                           # Require restart after changing it while bot running
 TELEGRAM_HASH = "fa4c3f582286d969ab1d08449e9533e8"                          # Require restart after changing it while bot running
 
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""                    # Require restart after changing it while bot running
-DATABASE_URL = "mongodb+srv://itzmeproman:itzmeproman@itzmeproman.uvyufft.mongodb.net/?retryWrites=true&w=majority"                           # Require restart after changing it while bot running
+DATABASE_URL = "mongodb+srv://itzmeproman:itzmeproman@cluster0.otf0bax.mongodb.net/?retryWrites=true&w=majority"                           # Require restart after changing it while bot running
 DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
 CMD_SUFFIX = ""                             # Require restart after changing it while bot running
 AUTHORIZED_CHATS = "-1001985920600"                       # Require restart after changing it while bot running
